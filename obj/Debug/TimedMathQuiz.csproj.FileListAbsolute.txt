@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe.config
+C:\Users\valen\source\repos\TimedMathQuiz\bin\Debug\TimedMathQuiz.exe
+C:\Users\valen\source\repos\TimedMathQuiz\bin\Debug\TimedMathQuiz.pdb
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.Form1.resources
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.Properties.Resources.resources
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.exe
+C:\Users\valen\source\repos\TimedMathQuiz\obj\Debug\TimedMathQuiz.pdb
